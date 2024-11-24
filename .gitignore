@@ -1,0 +1,3 @@
+node_modules
+mongodb+srv://Bruno:<db_password>@abacaxi.8e2ba.mongodb.net/?retryWrites=true&w=majority&appName=abacaxi
+.env
